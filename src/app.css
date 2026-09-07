@@ -797,6 +797,6 @@ footer {
   }
   .footer-inner {
     gap: 10px;
-    flex-direction: column;
+    flex-direction: row;
   }
 }
