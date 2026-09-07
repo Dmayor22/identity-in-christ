@@ -1,4 +1,4 @@
- export const scriptures = [
+export const scriptures = [
   {
     id: "new-creation",
     category: "New Creation",
@@ -6,14 +6,6 @@
     title: "I Am a New Creation",
     ref: "2 Corinthians 5:17",
     text: "If anyone is in Christ, the new creation has come; the old has gone, the new is here.",
-  },
-  {
-    id: "chosen",
-    category: "Chosen",
-    icon: "👑",
-    title: "I Am Chosen",
-    ref: "1 Peter 2:9",
-    text: "You are a chosen people, a royal priesthood, a holy nation, God's special possession.",
   },
   {
     id: "child",
@@ -158,5 +150,45 @@
     title: "I Am Salt of the Earth",
     ref: "Matthew 5:13",
     text: "Jesus says, 'You are the salt of the earth.'",
+  },
+  {
+    id: "chosen",
+    category: "Chosen",
+    icon: "👑",
+    title: "I Am Chosen",
+    ref: "1 Peter 2:9",
+    text: "But ye are a chosen generation, a royal priesthood, an holy nation, a peculiar people; that ye should shew forth the praises of him who hath called you out of darkness into his marvellous light.",
+  },
+  {
+    id: "chosen",
+    category: "Chosen",
+    icon: "👑",
+    title: "I am God's special possession",
+    ref: "1 Peter 2:10",
+    text: "Which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy.",
+  },
+  {
+    id: "chosen",
+    category: "Chosen",
+    icon: "👑",
+    title: "I am chosen by God",
+    ref: "Ephesians 1:4",
+    text: "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love.",
+  },
+  {
+    id: "chosen",
+    category: "Chosen",
+    icon: "👑",
+    title: "I am God's elect",
+    ref: "Colossians 3:12",
+    text: "Put on therefore, as the elect of God, holy and beloved, bowels of mercies, kindness, humbleness of mind, meekness, longsuffering.",
+  },
+  {
+    id: "chosen",
+    category: "Chosen",
+    icon: "👑",
+    title: "I am chosen according to God's purpose",
+    ref: "Romans 8:28",
+    text: "And we know that all things work together for good to them that love God, to them who are the called according to his purpose.",
   },
 ];
