@@ -372,7 +372,7 @@ button {
   display: flex;
   align-items: center;
   gap: 3px;
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
 }
 .category-grid {
@@ -656,6 +656,9 @@ footer {
 }
 .dark .card-footer {
   background: #14111b;
+}
+.dark .cat_title {
+  color: #fff;
 }
 .dark .category-card:hover {
   box-shadow: none;

@@ -295,7 +295,7 @@ const App = () => {
                         }}
                       >
                         <span>{item?.icon}</span>
-                        <strong>{cat}</strong>
+                        <strong className="cat_title">{cat}</strong>
                         <small>
                           {scriptures.filter((s) => s.category === cat).length}{" "}
                           scriptures
