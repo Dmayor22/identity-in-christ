@@ -1,6 +1,8 @@
 import React from "react";
 import { scriptures } from "../data";
 import { Heart, Share2, Bookmark } from "lucide-react";
+import ScriptureCard from "./ScriptureCard";
+
 
 const Saved = ({ saved, toggleSaved, share, nav }) => {
   const list = scriptures.filter((s) => saved.includes(s.id));
